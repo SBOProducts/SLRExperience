@@ -1,0 +1,5 @@
+C:\Users\cb0290\Documents\GitHub\ImageExperiments\ImageUtils\obj\Debug\ImageUtils.csprojResolveAssemblyReference.cache
+C:\Users\cb0290\Documents\GitHub\ImageExperiments\ImageUtils\bin\Debug\ImageUtils.dll
+C:\Users\cb0290\Documents\GitHub\ImageExperiments\ImageUtils\bin\Debug\ImageUtils.pdb
+C:\Users\cb0290\Documents\GitHub\ImageExperiments\ImageUtils\obj\Debug\ImageUtils.dll
+C:\Users\cb0290\Documents\GitHub\ImageExperiments\ImageUtils\obj\Debug\ImageUtils.pdb

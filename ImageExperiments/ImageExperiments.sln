@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageUtils", "ImageUtils\ImageUtils.csproj", "{250AAA29-6800-4843-8F00-4B3ECEDF79D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication", "ConsoleApplication\ConsoleApplication.csproj", "{250D8E30-833D-4E15-81EC-DDC01189088F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{250AAA29-6800-4843-8F00-4B3ECEDF79D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{250AAA29-6800-4843-8F00-4B3ECEDF79D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{250AAA29-6800-4843-8F00-4B3ECEDF79D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{250AAA29-6800-4843-8F00-4B3ECEDF79D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{250D8E30-833D-4E15-81EC-DDC01189088F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{250D8E30-833D-4E15-81EC-DDC01189088F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{250D8E30-833D-4E15-81EC-DDC01189088F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{250D8E30-833D-4E15-81EC-DDC01189088F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
