@@ -6,3 +6,12 @@ C:\Users\cb0290\Documents\GitHub\ImageExperiments\ConsoleApplication\bin\Debug\I
 C:\Users\cb0290\Documents\GitHub\ImageExperiments\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
 C:\Users\cb0290\Documents\GitHub\ImageExperiments\ConsoleApplication\obj\Debug\ConsoleApplication.exe
 C:\Users\cb0290\Documents\GitHub\ImageExperiments\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\cb0290\Documents\GitHub\SLRExperience\ImageExperiments\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\cb0290\Documents\GitHub\SLRExperience\ImageExperiments\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\cb0290\Documents\GitHub\SLRExperience\ImageExperiments\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\cb0290\Documents\GitHub\SLRExperience\ImageExperiments\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\cb0290\Documents\GitHub\SLRExperience\ImageExperiments\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\cb0290\Documents\GitHub\SLRExperience\ImageExperiments\ConsoleApplication\bin\Debug\ImageUtils.dll
+C:\Users\cb0290\Documents\GitHub\SLRExperience\ImageExperiments\ConsoleApplication\bin\Debug\ImageUtils.pdb
+C:\Users\cb0290\Documents\GitHub\SLRExperience\ImageExperiments\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\cb0290\Documents\GitHub\SLRExperience\ImageExperiments\ConsoleApplication\bin\Debug\ExifLibrary.dll
