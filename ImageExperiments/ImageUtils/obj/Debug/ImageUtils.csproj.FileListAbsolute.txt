@@ -8,3 +8,8 @@ C:\Users\cb0290\Documents\GitHub\SLRExperience\ImageExperiments\ImageUtils\obj\D
 C:\Users\cb0290\Documents\GitHub\SLRExperience\ImageExperiments\ImageUtils\bin\Debug\ImageUtils.dll
 C:\Users\cb0290\Documents\GitHub\SLRExperience\ImageExperiments\ImageUtils\bin\Debug\ImageUtils.pdb
 C:\Users\cb0290\Documents\GitHub\SLRExperience\ImageExperiments\ImageUtils\obj\Debug\ImageUtils.pdb
+C:\Users\Nathan\Documents\GitHub\SLRExperience\ImageExperiments\ImageUtils\bin\Debug\ImageUtils.dll
+C:\Users\Nathan\Documents\GitHub\SLRExperience\ImageExperiments\ImageUtils\bin\Debug\ImageUtils.pdb
+C:\Users\Nathan\Documents\GitHub\SLRExperience\ImageExperiments\ImageUtils\obj\Debug\ImageUtils.csprojResolveAssemblyReference.cache
+C:\Users\Nathan\Documents\GitHub\SLRExperience\ImageExperiments\ImageUtils\obj\Debug\ImageUtils.dll
+C:\Users\Nathan\Documents\GitHub\SLRExperience\ImageExperiments\ImageUtils\obj\Debug\ImageUtils.pdb

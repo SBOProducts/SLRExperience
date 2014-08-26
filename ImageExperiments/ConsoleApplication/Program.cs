@@ -29,7 +29,7 @@ namespace ConsoleApplication
             string src = @"C:\Temp\images\test.jpg";
             string dst = @"C:\Temp\images\blowout.gif";
             BlowoutIndicator ind = new BlowoutIndicator(src);
-            ind.CreateBlowoutGif(dst);
+            ind.CreateBlowoutImages();
         }
 
 

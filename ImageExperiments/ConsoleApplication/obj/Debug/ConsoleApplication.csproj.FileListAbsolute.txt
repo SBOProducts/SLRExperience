@@ -15,3 +15,12 @@ C:\Users\cb0290\Documents\GitHub\SLRExperience\ImageExperiments\ConsoleApplicati
 C:\Users\cb0290\Documents\GitHub\SLRExperience\ImageExperiments\ConsoleApplication\bin\Debug\ImageUtils.pdb
 C:\Users\cb0290\Documents\GitHub\SLRExperience\ImageExperiments\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
 C:\Users\cb0290\Documents\GitHub\SLRExperience\ImageExperiments\ConsoleApplication\bin\Debug\ExifLibrary.dll
+C:\Users\Nathan\Documents\GitHub\SLRExperience\ImageExperiments\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Nathan\Documents\GitHub\SLRExperience\ImageExperiments\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\Nathan\Documents\GitHub\SLRExperience\ImageExperiments\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\Nathan\Documents\GitHub\SLRExperience\ImageExperiments\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\Nathan\Documents\GitHub\SLRExperience\ImageExperiments\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\Nathan\Documents\GitHub\SLRExperience\ImageExperiments\ConsoleApplication\bin\Debug\ImageUtils.dll
+C:\Users\Nathan\Documents\GitHub\SLRExperience\ImageExperiments\ConsoleApplication\bin\Debug\ExifLibrary.dll
+C:\Users\Nathan\Documents\GitHub\SLRExperience\ImageExperiments\ConsoleApplication\bin\Debug\ImageUtils.pdb
+C:\Users\Nathan\Documents\GitHub\SLRExperience\ImageExperiments\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
